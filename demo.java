@@ -1,6 +1,6 @@
 class demo{
     public static void main(String[] args) {
-        string a="reverting the comit";
+        string a="after commit";
         System.out.println(a);
     }
 }
