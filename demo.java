@@ -1,6 +1,6 @@
 class demo{
     public static void main(String[] args) {
-        string a="after commit";
+        string a="new branch dev and merge to main";
         System.out.println(a);
     }
 }
